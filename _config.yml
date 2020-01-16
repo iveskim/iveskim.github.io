@@ -60,7 +60,7 @@ navs:
     label: Archives
     target: _self
 
-  - href: /archives.html
+  - href: /about.html
     label: 关于
     target: _self
 
