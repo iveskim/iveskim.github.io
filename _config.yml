@@ -13,7 +13,7 @@ email: jin_jian@126.com
 description: 记录工作，生活
 keywords: 个人博客
 encoding: "utf-8"
-favicon: 
+favicon: favicon.ico
 
 repository: iveskim/iveskim.github.io
 github_url: https://github.com/iveskim
