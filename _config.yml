@@ -7,10 +7,10 @@
 
 # Site settings
 title:  十八画
-subtitle: 记录生活点点滴滴
+subtitle: 记录生活&工作
 name:  
 email: jin_jian@126.com
-description: 记录工作，生活
+description: 记下来
 keywords: 个人博客
 encoding: "utf-8"
 favicon: favicon.ico
@@ -83,10 +83,6 @@ classes:
     name:
     describe:
 
-
-
-
-
 # ---------------- #
 #       RSS        #
 # ---------------- #
@@ -101,10 +97,4 @@ side_bar_repo_limit: 6 # Number of repos to show
 #   google :
 #     tracking_id : ''  # ex. UA-72165600-X
 
-
-# For about.html. Fell free to create your own!
-skill_software_keywords: [Java, MySQL, Oracle, Design Patterns]
-skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
-skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, NodeJS, ExpressJS, MongoDB, Redis, PHP,  Boostrap]
-skill_mobile_app_keywords: [vuejs, hyhird app]
 
