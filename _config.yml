@@ -79,9 +79,9 @@ labels:
 classes:
 
   -
-    href:
-    name:
-    describe:
+    href: /other/2020/01/16/markdown.html
+    name: Markdown
+    describe: 相关使用和说明
 
 # ---------------- #
 #       RSS        #
