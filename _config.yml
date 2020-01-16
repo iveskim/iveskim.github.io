@@ -9,15 +9,15 @@
 title:  十八画生
 subtitle: 记录生活点点滴滴
 name:  
-email: ityouknow@126.com
+email: jin_jian@126.com
 description: 记录工作，生活
 keywords: 个人博客
 encoding: "utf-8"
 favicon: 
 
-repository: ityouknow/ityouknow.github.io
-github_url: https://github.com/ityouknow
-url: http://www.ityouknow.com
+repository: iveskim/iveskim.github.io
+github_url: https://github.com/iveskim
+url: https://iveskim.github.io
 enforce_ssl: 
 
 ## Gem
