@@ -29,6 +29,9 @@ permalink: /about
 - golang 
 - python
 
+## 价值
+实现财富自由后，为每个社区创建大众图书馆将是自己的事业
+
 ## 联系
 - Email： 731553103#qq.com
 
